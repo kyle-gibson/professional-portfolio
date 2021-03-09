@@ -1,13 +1,13 @@
 {
-  "name": "gatsby-starter-ghost",
-  "description": "A starter template to build lightning fast websites with Ghost and Gatsby",
+  "name": "Kyle Gibson",
+  "description": "Developer Portfolio",
   "version": "1.0.0",
   "license": "MIT",
-  "author": "Ghost Foundation",
+  "author": "Kyle Gibson",
   "homepage": "https://docs.ghost.org/api/gatsby/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tryghost/gatsby-starter-ghost.git"
+    "url": "git+https://https://github.com/kyle-gibson/professional-portfolio"
   },
   "resolutions": {
     "sharp": "0.27.1"
@@ -16,11 +16,11 @@
     "node": ">= 10.13.0"
   },
   "bugs": {
-    "url": "https://github.com/tryghost/gatsby-starter-ghost/issues"
+    "url": "https://https://github.com/kyle-gibson/professional-portfolio/issues"
   },
   "keywords": [
-    "gatsby",
-    "ghost"
+    "kyle",
+    "gibson"
   ],
   "main": "n/a",
   "scripts": {
